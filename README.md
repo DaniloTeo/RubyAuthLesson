@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Simple project coding along the [Medium article](https://medium.com/better-programming/adding-authentication-to-your-application-with-bcrypt-and-json-web-tokens-8bf449de3b2b) by [Madeline Corman](https://github.com/MACorman/) 
